@@ -1,0 +1,28 @@
+.body-container4{
+top:0;
+}
+.bdy-container{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+.bdy-container1{
+  font-size: 40px;
+  margin-top: 40px;
+}
+.bdy-container2{
+  display: flex;
+  flex-direction: column;
+  float: right;
+  margin-left: 200px;
+  font-size: 18px;
+}
+.desc{
+  margin:10px;
+}
+.sup{
+  font-size: 10px;
+}
+.sup1{
+  font-size: 25px;
+}
